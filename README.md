@@ -24,12 +24,12 @@ The system includes the following core entities:
 
 ## Features
 
-✅ Normalized database schema following best practices  
-✅ Comprehensive entity relationships  
-✅ Support for multiple contact methods (email, phone)  
-✅ Payment and ticketing integration  
-✅ Feedback and review system  
-✅ Scalable design for multiple events and attendees  
+ Normalized database schema following best practices  
+ Comprehensive entity relationships  
+ Support for multiple contact methods (email, phone)  
+ Payment and ticketing integration  
+ Feedback and review system  
+Scalable design for multiple events and attendees  
 
 ## Project Structure
 
