@@ -1,0 +1,8 @@
+CREATE TABLE PAYMENT (
+    PaymentID INT PRIMARY KEY AUTO_INCREMENT,
+    RegistrationID INT NOT NULL,
+    PaymentDate DATETIME NOT NULL,
+    PaymentMethod VARCHAR(50) NOT NULL,
+    Amount DECIMAL(10,2) NOT NULL,
+    FOREIGN KEY (RegistrationID) REFERENCES REGISTRATION(RegistrationID)
+);
